@@ -1,0 +1,47 @@
+body {
+	background-color: LightGrey;
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+}
+
+
+h3 {
+  color: Navy;
+}
+
+
+
+
+#content-profile {
+	padding: 0px 10px;
+	margin: 30px;
+
+}
+
+#content-work-experience {
+	padding: 0px 10px;
+	margin: 30px;
+}
+
+p {
+
+}
+
+
+.pclass {
+	color: navy;
+	font-size: 18px;
+	font-family: arial;
+	font-weight: bold;
+	
+}
+.description{
+	color: black;
+	font-size: 16px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+	
